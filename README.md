@@ -1,5 +1,4 @@
-Privilege Escalation
-
+The Climbing Ladder: Privilege Escalation
 ## Project Overview
 This project demonstrates Linux privilege escalation techniques by transitioning from a limited user to root access. The primary focus was identifying misconfigured binary permissions and leveraging the `find` utility to establish a persistent root shell.
 
