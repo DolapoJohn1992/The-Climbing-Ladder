@@ -1,0 +1,4 @@
+Vulnerable Service Name: tar (Wildcard Injection via Cron Job)
+Path to the Writable Folder: /home/limited_user/backups
+MSFVenom Payload Command: N/A - Manual SUID Bash script used
+Proof of Execution: uid=1001(limited_user) gid=1001(limited_user) euid=0(root) groups=1001(limited_user)
